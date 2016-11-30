@@ -4,4 +4,4 @@
 ![enter image description here](http://ogxoqrabi.bkt.clouddn.com/weather_mvp.gif)
 
 详情可参考我的博客：
-http://liziyang.top/2016/11/27/MVP%E7%AE%80%E5%8D%95%E5%88%86%E6%9E%90%E4%B8%8E%E4%BD%BF%E7%94%A8/
+http://liziyang.top/2016/11/27/Android%E4%B8%ADMVP%E5%88%9D%E6%AD%A5%E5%88%86%E6%9E%90/
